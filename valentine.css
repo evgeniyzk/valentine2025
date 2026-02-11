@@ -1,0 +1,95 @@
+body {
+    background-color: rgb(255, 4, 4);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+p {
+    font-family: Caveat;
+}
+.name {
+    position: center;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bolder;
+    color: rgb(255, 255, 255);
+}
+.leila1 {
+    position: relative;
+    display: inline-block;
+    height: 300px;
+    transform: rotate(340deg);
+    margin-top: 100px;
+    
+    
+}
+.leila2 {
+    position: relative;
+    display: inline-block;
+    height: 400px;
+    margin-top: 100px;
+}
+.leila3 {
+    position: relative;
+    display: inline-block;
+    height: 300px;
+    margin-top: 100px;
+    margin-left: 10px;
+    transform: rotate(10deg);
+}
+.legs {
+    position: relative;
+    display: inline-block;
+    height: 350px;
+    margin-top: 100px;
+    margin-left: 10px;
+    transform: rotate(350deg);
+
+}
+.text {
+    margin-top: 200px;
+    font-size: 30px;
+    text-align: center;
+    color: white
+}
+.smile1 {
+    position: relative;
+    display: inline-block;
+    height: 300px;
+    margin-top: 100px;
+    margin-left: 10px;
+    transform: rotate(10deg);
+}
+.smile2 {
+    position: relative;
+    display: inline-block;
+    height: 350px;
+    margin-top: 100px;
+    margin-left: 20px;
+
+}
+.smile3 {
+    position: relative;
+    display: inline-block;
+    height: 300px;
+    margin-top: 100px;
+    margin-left: 10px;
+    transform: rotate(350deg)
+}
+.smile4 {
+    position: relative;
+    display: inline-block;
+    height: 350px;
+    margin-top: 100px;
+    margin-left: 5px;
+    transform: rotate(5deg)
+}
+.heart {
+    display: block;
+    height: 800px;
+    margin-top: 100px;
+    margin-left: 200px;
+
+}
